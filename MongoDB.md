@@ -1,4 +1,4 @@
-# MongoDB Implementation Guide for Blog Project
+# MongoDB Implementation Guide for Blog Project (This is the showcase version of Projekt1)
 
 ## Table of Contents
 1. [What is MongoDB?](#what-is-mongodb)
